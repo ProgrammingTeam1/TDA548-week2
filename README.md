@@ -1,2 +1,2 @@
 # TDA548-week2
-Laboration 1 i Grundläggande Programvaruutveckling (TDA548)
+Laboration 2 i Grundläggande Programvaruutveckling (TDA548)
